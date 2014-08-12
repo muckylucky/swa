@@ -1,0 +1,61 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1501" measuredH="1246" mockupW="1499" mockupH="1246">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="2" y="0" w="1499" h="1246" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Simon%20Winstanley%20Architects%0Ahttp%3A//www.candwarch.co.uk</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MenuBar" x="726" y="73" w="767" h="47" measuredW="330" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <text>Home%2C%20Projects%2C%20Profile%2C%20Services%2C%20Contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="1454" y="77" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SearchIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="70" w="1499" h="54" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="2" y="220" w="1499" h="57" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Title" x="462" y="231" w="-1" h="-1" measuredW="334" measuredH="35" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>32</size>
+        <text>Loch%20Arthur%20Farm%20Shop</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Title" x="17" y="233" w="-1" h="-1" measuredW="129" measuredH="31" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Fast%20facts</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Icon" x="161" y="236" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>UpRightArrowIcon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Icon" x="811" y="232" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>DownArrowIcon%7Cmedium</icon>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Icon" x="1396" y="236" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>Info2Icon%7Csmall</icon>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Title" x="1130" y="233" w="-1" h="-1" measuredW="251" measuredH="31" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Beeswing%2C%20Dumfries</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::Paragraph" x="462" y="299" w="595" h="485" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Loch%20Arthur%20is%20a%20working%20community%20of%20more%20than%2070%20people%2C%20including%20men%20and%20women%20with%20learning%20disabilities.%20Loch%20Arthur%20Creamery%20and%20Farm%20Shop%20have%20grown%20out%20of%20the%20productive%20efforts%20of%20this%20diverse%20and%20vibrant%20community.%20The%20highest%20standards%20of%20Organic%20production%20are%20upheld%20in%20their%20Demeter%20Certified%20Farm%20and%20Creamery%2C%20Bakery%20and%20Craft%20Workshops.%20The%20new%20Farm%20Shop%20was%20designed%20in%20collaboration%20with%20Denis%20Chanarin%20of%20Camphill%20Architects%2C%20an%20architect%20and%20community%20member.%20It%20is%20based%20on%20some%20of%20the%20precepts%0Aof%20Rudolf%20Steiner%20whose%20philosophy%20is%20fundamental%20to%20the%20community.%0A%09A%20series%20of%20low%20wings%2C%20attached%20to%20a%20higher%20barn-like%20centre%20echoes%20the%20appearance%20of%20traditional%20agricultural%20buildings.%20The%20exterior%20cladding%20of%20durable%20Scottish%20timber%20boarding%20will%20be%20allowed%20to%20weather%20to%20a%20natural%20silvery-grey.%20Structural%20elements%20of%20home%20grown%20Douglas%20Fir%20are%20expressed%20internally%20to%20create%20interest%20and%20give%20visual%20warmth%20and%20tactility.%20A%20holistic%20approach%20to%20the%20building%20fabric%2C%20structure%2C%20materials%20and%20services%20has%20been%20adopted%20to%20reduce%20carbon%20emissions%2C%20resulting%20in%20a%20carbon%20footprint%2040%25%20better%20than%20notional%20figures%20for%20this%20building%20type.%0A%09For%20all%20the%20devoted%20people%20who%20support%20and%20shop%20at%20Loch%20Arthur%20the%20new%20development%20will%20provide%20a%20warm%2C%20social%2C%20welcoming%2C%20well-stocked%20and%20enjoyable%20environment%20for%20many%20years%20to%20come.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

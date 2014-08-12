@@ -1,0 +1,5 @@
+
+\f0\fs24 \cf0 RewriteEngine On\
+RewriteCond %\{REQUEST_FILENAME\} !-f\
+RewriteCond %\{REQUEST_FILENAME\} !-d\
+RewriteRule ^([^/]*)\\.html$ /projects/index.php?proj_name=$1 [L]}

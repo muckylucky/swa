@@ -1,0 +1,23 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1248" measuredH="916" mockupW="1033" mockupH="916">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPad" x="215" y="0" w="-1" h="-1" measuredW="616" measuredH="916" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <bgTransparent>true</bgTransparent>
+        <markup>true</markup>
+        <topBar>false</topBar>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Canvas" x="249" y="92" w="549" h="732" measuredW="100" measuredH="70" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>none</borderStyle>
+        <color>16777215</color>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::StickyNote" x="853" y="16" w="395" h="305" measuredW="109" measuredH="123" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>This%20is%20a%20template%20for%20exporting%20your%20iPad%20mockups%20for%20testing%20on%20a%20real%20iPad.%0A%20%0AHere%27s%20how%20it%20works%3A%0A%20%0A*%20There%20is%20a%20rectangle%20control%20behind%20the%20iPad%20control%20that%20ensures%20that%20your%20mockups%20will%20export%20at%20the%20correct%20iPad%20proportions.%0A%20%0A*%20The%20iPad%20itself%20is%20treated%20as%20*Markup*%2C%20meaning%20that%20you%20can%20easily%20toggle%20it%20off%20for%20exporting%20%28since%20you%20don%27t%20want%20to%20see%20the%20iPad%20frame%20when%20you%27re%20viewing%20it%20on%20an%20actual%20iPad%29.%20To%20do%20this%2C%20go%20to%20the%20*%22View%22%20menu*%20and%20*uncheck%20%22Show%20Markup%22*%0A%20%0A_Note%3A%20both%20controls%20are%20%22locked%22%2C%20meaning%20that%20you%20can%27t%20select%20or%20move%20them.%20To%20unlock%20them%2C%20right%20click%20and%20select%20%22Unlock%22_</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

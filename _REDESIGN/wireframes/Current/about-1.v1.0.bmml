@@ -1,0 +1,188 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1000" measuredH="1309" mockupW="1000" mockupH="1309">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="1000" h="1309" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Simon%20Winstanley%20Architects%0Ahttp%3A//www.simonwinstalney.com/service</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="263" y="79" w="-1" h="-1" measuredW="503" measuredH="43" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>simon%20winstanley%20architects</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="122" w="-1" h="-1" measuredW="285" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>home%2C%20projects%2C%20%5Bour%20service%5D%2C%20contact</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="0" y="73" w="1000" h="1097" measuredW="77" measuredH="79" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="265" y="204" w="-1" h="-1" measuredW="524" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Passionate%20about%20the%20places%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="1160" w="1000" h="123" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Paragraph" x="13" y="1173" w="200" h="110" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>190%20King%20Street%0ACastle%20Douglas%0A*DG7%201DB*%0A01556%20503826%0A%20%0Aemail@simonwinstanley.com%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="908" y="1173" w="77" h="24" measuredW="77" measuredH="24" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Icon" x="0" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>GoogleIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Icon" x="24" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="1" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>FacebookIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Icon" x="53" y="0" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="17">
+          <controlProperties>
+            <icon>LinkedInIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="265" y="241" w="-1" h="-1" measuredW="343" measuredH="43" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>we%20live%20and%20work%20in</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Paragraph" x="263" y="293" w="417" h="170" measuredW="200" measuredH="80" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Through%20our%20work%20and%20projects%20we%20strive%20to%20enhance%20peoples%20emotional%20and%20physical%20responses%20to%20the%20places%20where%20they%20live%2C%20work%20and%20socialise.%20%20We%20aim%20to%20lift%20people%u2019s%20spirits%20through%20the%20enjoyment%20of%20a%20place%20while%20making%20that%20place%20protective%2C%20responsive%20and%20environmentally%20sound.%20Established%20in%201983%2C%20the%20practice%20specialises%20in%20contemporary%20architecture%2C%20energy%20conscious%20design%20and%20conservation%20having%20completed%20a%20wide%20range%20of%20projects%20including%20many%20award%20winning%20buildings.%20We%20can%20handle%20projects%20of%20all%20sizes%20and%20make%20an%20imaginative%20and%20innovative%20design%20response%20to%20every%20brief.</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Title" x="265" y="455" w="-1" h="-1" measuredW="632" measuredH="43" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>High%20quality%20award%20winning%20design%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Paragraph" x="263" y="510" w="503" h="170" measuredW="200" measuredH="80" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>We%20take%20pride%20in%20providing%20a%20high%20quality%20professional%20service%20and%20design%20with%20care%20and%20sensitivity%20to%20the%20character%20of%20the%20existing%20architecture%2C%20surrounding%20context%20and%20environment.%20We%20believe%20that%20a%20balanced%20approach%20is%20best%20which%20incorporates%20traditional%20building%20methods%20with%20contemporary%20ideas%20and%20that%20better%20standards%20deliver%20superior%20buildings%20which%2C%20together%20with%20considered%20and%20integrated%20landscaping%2C%20contribute%20to%20creating%20successful%20sustainable%20places.%20%20We%20strive%20to%20bring%20design%20quality%20to%20each%20and%20every%20project.%20As%20a%20recognition%20of%20this%20we%20have%20received%20many%20design%20awards%2C%20including%20recently%20The%20Royal%20Institute%20of%20British%20Architects%20%28RIBA%29%20Award%20for%20The%20Houl%20in%202011.</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="75" y="510" w="153" h="37" measuredW="77" measuredH="79" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="75" y="556" w="-1" h="-1" measuredW="114" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Best%20small%20practice</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Image" x="75" y="592" w="153" h="37" measuredW="77" measuredH="79" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="75" y="638" w="-1" h="-1" measuredW="31" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RIAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="75" y="674" w="153" h="37" measuredW="77" measuredH="79" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="75" y="720" w="-1" h="-1" measuredW="27" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Riba</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Title" x="265" y="705" w="-1" h="-1" measuredW="614" measuredH="43" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Budget%2C%20timescale%20%26%20commitment%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Paragraph" x="442" y="760" w="324" h="170" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>All%20of%20our%20projects%20have%20budgetary%20and%20time%20constraints.%20We%20are%20adept%20at%20working%20within%20the%20agreed%20construction%20cost%20budget.%20We%20have%20the%20staffing%20levels%20and%20time%20management%20skills%20to%20allow%20us%20to%20allocate%20resources%20which%20will%20allow%20us%20to%20work%20with%20clients%20to%20achieve%20a%20successful%20outcome%20within%20agreed%20project%20time%20scales.%20%20%7EGood%20design%2C%20takes%20time%7E.</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="265" y="914" w="-1" h="-1" measuredW="353" measuredH="43" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20Holistic%20Approach</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Paragraph" x="263" y="969" w="412" h="170" measuredW="200" measuredH="80" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>A%20sustainable%20approach%20to%20the%20design%20of%20a%20building%20should%20be%20holistic%20and%20integrated.%20Proposals%20can%20provide%20a%20building%20with%20a%20mixture%20of%20features%20either%20passive%20%28eg%20insulation%2C%20orientation%20to%20the%20sun%29%20or%20active%20%28eg%20air%20or%20ground%20source%20heat%20pumps%20%26%20heat%20recovery%20ventilation%29.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Link" x="75" y="210" w="-1" h="-1" measuredW="64" measuredH="19" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Passionate</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Link" x="75" y="235" w="-1" h="-1" measuredW="85" measuredH="19" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Award%20winning</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Link" x="75" y="260" w="-1" h="-1" measuredW="43" measuredH="19" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Budget</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Link" x="75" y="285" w="-1" h="-1" measuredW="81" measuredH="19" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20approach</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Link" x="75" y="310" w="-1" h="-1" measuredW="81" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Our%20approach</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="699" y="293" w="198" h="125" measuredW="77" measuredH="79" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="262" y="760" w="167" h="110" measuredW="77" measuredH="79" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Image" x="699" y="969" w="198" h="106" measuredW="77" measuredH="79" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="261" y="1170" w="-1" h="-1" measuredW="283" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Award%20winninng%2C%20enviromentally%20aware%20architects</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Link" x="261" y="1191" w="-1" h="-1" measuredW="30" measuredH="19" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RIBA</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Link" x="261" y="1210" w="-1" h="-1" measuredW="31" measuredH="19" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>RIAS</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Link" x="261" y="1229" w="-1" h="-1" measuredW="114" measuredH="19" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Best%20small%20practice</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

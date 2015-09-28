@@ -69,13 +69,15 @@ $(function(){
 			thumbs_nav = $('ul.img-carousel-thumb').find('a'),
 			total = imgs.length,
 			counter = 0,
-			delay = 2000,
+			delay = 5000,
 			interrupt = false,
 			animating = false,
 			rotate_content = setInterval(rotate, delay, counter),
 			target = 0,
 			direction = 'right',
-			zIndex = 0;
+			zIndex = 0,
+			imgHeight, // For correctly sizing the carousel on resize
+			container = $('.img-carousel-main');
 		$(imgs).not(":first").hide();
 		var current = $('ul.img-carousel-main li img:visible');
 
@@ -109,22 +111,7 @@ $(function(){
 				target = $(imgs[counter]);
 				fader(current, target);
 				
-				/*
-				if(counter + 1 < total){
-					   current = $(imgs[counter]);
-					   //console.log(current);
-					   target = $(imgs[counter +1]);
-					   //console.log(target);
-					   fader(current, target);
-					   
-				} else if (counter === total){
-					   console.log('RESET');
-					   current = $(imgs[counter -1]);
-					   counter = 0;
-					   target = $(imgs[counter]);
-					   fader(current, target);
-					  
-				}*/
+
 	} // end rotate function
 
 		function fader(current, target){
@@ -163,30 +150,23 @@ $(function(){
 			//direction === 'left' ? counter-- : counter++;
 			rotate();
 			
-			/*
-			//(direction === 'right') ? ++counter : --counter;
-			if (direction === 'left' && counter === 0) {
-				counter = total - 1;
-				target = $(imgs[counter]);
-				fader(target);
-			} else if (direction === 'left' && counter > 0) {
-				--counter;
-				target = imgs[counter];
-				fader(target);
-			} else if (direction === 'right' && counter < total - 1) {
-				++counter;
-				target = imgs[counter];
-				fader(target);
-			} else if (direction === 'right' && counter === total - 1) {
-				counter = 0;
-				target = imgs[counter];
-				fader(target);
-			}
-			*/
 
-		});				
+
+		});	
+
+/////////////////////// Handle carousel sizing
+	window.onload = function() {
+		  imgHeight = container.find('img:visible').css('height');
+		  container.height(imgHeight);			
 	}
-	
+
+/////////////////////// Handle resize
+	  window.onresize=function(){
+		  imgHeight = container.find('img:visible').css('height');
+		  container.height(imgHeight);
+	  };
+	}
+
 	carousel();
 	
 ///////////////////////  CImage swapper

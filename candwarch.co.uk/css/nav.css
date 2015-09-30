@@ -1,0 +1,70 @@
+/* nav css #################################################### */
+
+ul#navlist {
+	background: transparent url("/images/dotted_line.gif") left top repeat-x;
+	list-style: none;
+	margin-bottom: 0px;
+	float: left;
+	left: -30px;
+}
+
+ul#navlist li {
+	padding: 0;
+}
+
+ul#navlist li a{
+	color: #585858;
+	display: block;
+	text-align: left;
+	width: 155px;
+	padding: 0px 0px 0px 0px;
+	text-decoration: none;
+	line-height: 2.0em;
+}
+
+ul#navlist li a:hover {text-decoration: none; font-size: 14px; color: #EF2C2C;}
+ul#navlist li a:link {text-decoration: none; color: #000000; font-size: 14px;}
+ul#navlist li a:visited {text-decoration: none;	color: #000000;	font-size: 14px;}
+ul#navlist li a:active {text-decoration: none;	font-size: 14px;color: #EF2C2C;}
+
+
+
+li#nav_1 a {background: left bottom no-repeat;}
+li#nav_2 a {background: left bottom no-repeat;}
+li#nav_3 a {background: left bottom no-repeat;}
+li#nav_4 a {background: left bottom no-repeat;}
+li#nav_5 a {background: left bottom no-repeat;}
+li#nav_6 a {background: left bottom no-repeat;}
+li#nav_7 a {background: left bottom no-repeat;}
+li#nav_8 a {background: left bottom no-repeat;}
+li#nav_9 a {background: left bottom no-repeat;}
+li#nav_10 a {background: left bottom no-repeat;}
+li#nav_11 a {background: transparent url("../images/li_3.gif") left bottom no-repeat;}
+li#nav_12 a {background: transparent url("../images/li_5.gif") left bottom no-repeat;}
+li#nav_13 a {background: transparent url("../images/li_2.gif") left bottom no-repeat;}
+li#nav_14 a {background: transparent url("../images/li_3.gif") left bottom no-repeat;}
+li#nav_15 a {background: transparent url("../images/li_6.gif") left bottom no-repeat;}
+
+/* subnav */
+
+ul#navlist ul{
+	padding: 0px 15px 15px 15px;
+	background: ("/images/dotted_line.gif") left bottom repeat-x;
+	list-style: none;
+}
+
+ul#navlist ul li a {
+	line-height: 1.5em;
+	padding: 0px 1px 10px 1px;
+	width: 143px;
+	background: none;
+	float: left;
+	float: -30px;
+}
+
+
+
+ul#navlist ul li a:hover {text-decoration: none;font-size: 12px;color: #EF2C2C;}
+ul#navlist ul li a:link {text-decoration: none; color: #000000; font-size: 12px;}
+ul#navlist ul li a:visited {text-decoration: none;color: #000000;	font-size: 12px;}
+ul#navlist ul li a:active {text-decoration: none;	font-size: 12px;color: #EF2C2C;}

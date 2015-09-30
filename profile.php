@@ -5,7 +5,7 @@
 	
 
 ?>
-    <!--TEST COMMENT-->
+    
     <div class="row">
     	<div class="small-3 columns left awards">
         	<br />

@@ -1,0 +1,51 @@
+@charset "utf-8";
+.body {
+	width: 1100px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#top-content {
+	text-align: center;
+	margin-bottom:10px;
+}
+#image {
+	margin-bottom:4px;
+	cursor:pointer;
+	text-align: center;
+}
+#breadcrumbs {
+	width: 800px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	line-height: 26px;
+	color: #999;
+}
+#lower-content {
+	width: 800px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #666;
+}
+#menu {
+}
+#footer {
+	color: #999;
+}
+#right-content {
+	right: 0px;
+	width: 260px;
+	float:right;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	color: #666;
+	text-align: justify;
+}
+#project {
+	width: 800px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #09C;
+}
+#gallery {
+	cursor:pointer;
+}

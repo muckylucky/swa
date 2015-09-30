@@ -1,35 +1,1 @@
-<?php
-    ini_set('display_errors', '1');
-	include($_SERVER['DOCUMENT_ROOT'] . '/includes/get_img.php');	
-    require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/mysqli_connect.php');
-	//require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/mysqli_connect_swa.php');
-if (isset($_GET['proj-id']) ) {
-		$projectId = $_GET['proj-id'];
-
-		$q = "SELECT name, location, floor_area, co2, energy, completion, long_description, awards, keywords FROM projects WHERE id=" . $_GET['proj-id'] . "";
-		//$q = "SELECT name, location, floor_area, co2, energy, completion, long_description, awards, keywords FROM projects.projects WHERE id=" . $_GET['proj-id'] . "";
-		
-		$r = mysqli_query ($dbc, $q); // Run the query.
-		$row = mysqli_fetch_array($r, MYSQLI_ASSOC); //Construct array of items
-
-		//Format the date value
-		$formattedDate = date("F Y", strtotime($row['completion']) );
-        
-        //Make rest of variables available to page
-        $title = "Project: " . ucfirst( $row['name'] ) . ": ";
-        $floor = $row['floor_area'];
-        $co = $row['co2'];
-        $energy = $row['energy'];
-        $awards = $row['awards'];
-        $name = $row['name'];
-        $location = $row['location'];
-        $desc = $row['long_description'];
-        
-		
-	} else {
-		echo '<h2>No ID set</h2>';	
-	}
-    	include ($_SERVER['DOCUMENT_ROOT'] . '/includes/header.html');
-
-	
-?>
+<?php    ini_set('display_errors', '1');	include($_SERVER['DOCUMENT_ROOT'] . '/includes/get_img.php');	    //require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/mysqli_connect.php');	require_once($_SERVER['DOCUMENT_ROOT'] . '/includes/mysqli_connect_swa.php');if (isset($_GET['proj-id']) ) {		$projectId = $_GET['proj-id'];		$q = "SELECT name, location, floor_area, co2, energy, completion, long_description, awards, keywords FROM projects WHERE id=" . $_GET['proj-id'] . "";		//$q = "SELECT name, location, floor_area, co2, energy, completion, long_description, awards, keywords FROM projects.projects WHERE id=" . $_GET['proj-id'] . "";				$r = mysqli_query ($dbc, $q); // Run the query.		$row = mysqli_fetch_array($r, MYSQLI_ASSOC); //Construct array of items		//Format the date value		$formattedDate = date("F Y", strtotime($row['completion']) );                //Make rest of variables available to page        $title = "Project: " . ucfirst( $row['name'] ) . ": ";        $floor = $row['floor_area'];        $co = $row['co2'];        $energy = $row['energy'];        $awards = $row['awards'];        $name = $row['name'];        $location = $row['location'];        $desc = $row['long_description'];        			} else {		echo '<h2>No ID set</h2>';		}    	include ($_SERVER['DOCUMENT_ROOT'] . '/includes/header.html');	?>
